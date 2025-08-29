@@ -24,4 +24,4 @@ http://localhost:3000/api-docs
 github link:
 https://github.com/ioannisskr/PicFlixCF.git
 
-incase bcrypt throws an error, '''npm install bcrypt@latest``` and it should work
+incase bcrypt throws an error, ```npm install bcrypt@latest``` and it should work
